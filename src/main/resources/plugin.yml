@@ -1,0 +1,7 @@
+name: KatilKim
+version: '${project.version}'
+main: me.acablade.katilkim.Katilkim
+authors: [ Acablade ]
+description: katil kim
+commands:
+  admin:
