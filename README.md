@@ -9,4 +9,4 @@ eksiklikler:
 - ayrı mapler
 
 
-tüm eksikler 1-2 saat arasında halledilebilecek kolaylıkta fakat çok üşeniyorum ve sınav haftam ¯\_(ツ)_/¯
+tüm eksikler 1-2 saat arasında halledilebilecek kolaylıkta fakat çok üşeniyorum ve sınav haftam ¯\\\_(ツ)_/¯
